@@ -12,7 +12,7 @@ public class Test {
 	}
 	
 	@org.junit.Test
-	public void test2() {
+	public void test2()	{
 		assertEquals("B",test.BringIt("B"));
 	}
 	

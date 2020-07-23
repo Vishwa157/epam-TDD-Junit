@@ -7,7 +7,7 @@ public class Test {
 	Testing test=new Testing();
 	
 	@org.junit.Test
-	public void test1() {
+	public void test1()	{
 		assertEquals("",test.BringIt(""));
 	}
 	
